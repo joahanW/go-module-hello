@@ -1,5 +1,5 @@
 package go_module_hello
 
 func SayHello() string {
-	return "Hello World!! V2.0.0"
+	return "Hello World!! V1.5.0"
 }
